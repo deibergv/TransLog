@@ -1,0 +1,22 @@
+Unit Test:
+
+transLog(español,[juan,ama,a,maria]). -> [juan,loves,maria]
+transLog(spanish,[juan,amaba,a,maria]). -> [juan,loved,maria]
+transLog(spanish,[marco,hace,examenes,dificiles]). -> [marco,do,difficult,exams]
+transLog(english,[the,red,car]). -> [el,carro,rojo]
+transLog(español,[la,casa,es,azul]). -> [the,house,is,blue]
+transLog(español,[ella,quiere,un,helado]). -> [she,wants,a,icecream]
+transLog(ingles,[she,wants,a,icecream]). -> [ella,quiere,un,helado]
+transLog(ingles,[he,eats,an,tomato]). -> [él,come,un,tomate]
+transLog(español,[¿,es,ella,tú,mamá,?]). -> [is,she,your,mom,?]
+transLog(español,[ellos, tienen, unos, helados, rojos]). -> [they,have,a,red,icecreams]
+transLog(español,[marco,comía,helado]). -> [marco,ate,icecream]
+transLog(english,[he,drank,a,milkshake]). -> [él,bebió,un,batido]
+transLog(español,[adios]). -> [bye]
+transLog(ingles,[hello]). -> [hola]
+transLog(español,[¿,cuál,es,tú,libro,favorito,?]). -> [what,is,your,favourite,book,?]
+
+
+
+
+
